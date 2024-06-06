@@ -4,16 +4,13 @@
   <img alt="KLOR logo font" src="/docs/images/klor-font-logo-bright.svg">
 </picture>
 
-# QMK CONFIG FOR THE KLOR SPLIT KEYBOARD
-
-[Here](https://github.com/GEIGEIGEIST/zmk-config-klor) you can find the ZMK config for the KLOR.\
-[Here](https://github.com/GEIGEIGEIST/klor) you can find the hardware files and build guide.
-
-KLOR is a 36-42 key column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through brake off parts.
-
+# By Werner
+40 key column-staggered split keyboard, per key RGB matrix, encoders, OLED displays, haptic feedback, and audio.
 ![KLOR layouts](/docs/images/klor-layouts.svg)
 
-Polydactyl is the default layout. If you choose one of the other layouts you can use the matching template in the default keymap.\
+QWERTY layout + nav-, number-, and symbol- layers.
+
+If you choose one of the other layouts you can use the matching template in the default keymap.\
 If you choose Konrad or Saegewerk and plan on using LEDs you need to uncomment the appropiate lines in the `klor.c` file.
 
 
@@ -42,5 +39,5 @@ Than you can use this command to compile the RP2040 firmware for the KLOR.
 ## TODO
 - Add VIA(L) support
 - Add custom LED animation
-- Add OLED animation
+- Add OLED animation, see [video](https://www.youtube.com/watch?v=OJSOEStpPIo)
 - Make the haptic feedback work on the peripheral side
