@@ -13,6 +13,7 @@ If you choose one of the other layouts you can use the matching template in the 
 If you choose Konrad or Saegewerk and plan on using LEDs you need to uncomment the appropiate lines in the `klor.c` file.
 
 ## LCD
+Landscape, 128x64 pixels.
 ![](docs/images/screen.png)
 
 ## RP2040 Sea-Picro
