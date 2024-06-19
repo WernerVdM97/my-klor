@@ -11,11 +11,9 @@
             "id": "24957e8f2c8ac2e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": false
+                "file": "layer_0.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "layer_0.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "layer_0.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "layer_0.png"
               }
             }
           }
@@ -148,9 +146,12 @@
   },
   "active": "24957e8f2c8ac2e4",
   "lastOpenFiles": [
+    "klor/readme.md",
     "layer_0.png",
-    "docs/layers.pdf",
+    "README.md",
+    "klor/2040/readme.md",
     "README.md.md",
+    "docs/layers.pdf",
     "docs/images.md",
     "docs/images/screen.png",
     "docs/images/Screenshot 2024-06-17 at 20.28.20.png"

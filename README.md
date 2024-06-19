@@ -11,22 +11,25 @@
 ██       █     █          ▀▄            ▄▀      █         █   █  █     █     █       █     █  
 █         █    █▄▄▄▄▄▄▄▄    ▀▀▀▄▄▄▄▄▄▀▀▀        █          █  █   █████      █        ███████          
 ```
-# by Werner
-KLOR Konrad Variant, 40 key column-staggered split keyboard, encoders, OLED displays.
 
+# by Werner
+
+KLOR Konrad Variant, 40 key column-staggered split keyboard, encoders, OLED displays.
 
 ![KLOR layouts](/docs/images/klor-layouts.svg)
 
 
 ## 8 Layer Keymap
+
 QWERTY (Windows/Mac variants) with navigation-, number-, math-, and symbol layers.\
 ft. League of Legends layer (*left-only).
 
+![Layer-0](/docs/images/layer_0.png)
 
-![Layer-0](layer_0.png)
-See [detailed layers](docs/layers.pdf).
+See [detailed layers](/docs/layers.pdf).
 
 ## OLED
+
 Landscape, 128x64 pixels.
 
 
@@ -34,6 +37,7 @@ Landscape, 128x64 pixels.
 
 
 ## RP2040 Sea-Picro
+
 Place in the keyboards folder of your qmk installation.\
 Than you can use this command to compile the RP2040 firmware for the KLOR.
 
@@ -41,6 +45,7 @@ Than you can use this command to compile the RP2040 firmware for the KLOR.
 
 
 ## TODO
+
 - [ ] solder & assemble
 - [ ] program Layers
 - [ ] L/R OLED ft wpm animation ([tutorial](https://www.youtube.com/watch?v=OJSOEStpPIo))
