@@ -1,4 +1,16 @@
-![KLOR](docs/images/klor-font-logo-dark.svg)
+```
+█         █    █            ▄▄▄▀▀▀▀▀▀▄▄▄        █▀▀▀▀▀▀▀▀▀▀█
+█        █     █          ▄▀            ▀▄      █          █
+█       █      █        ▄▀                ▀▄    █          █
+█      █       █        █                  █    █          █  █
+█     █        █       █                    █   █          █      ████   ██████████   █████        
+█    █         █       █                    █   █▄▄▄▄▄▄▄▄▄▄█  █  █    █      █             █ 
+█   █ █        █       █                    █   █      █      █  █           █             █ 
+█  █   █       █        █                  █    █       █     █    ███       █         █████   
+█ █     █      █        ▀▄                ▄▀    █        █    █       █      █       █     █    
+██       █     █          ▀▄            ▄▀      █         █   █  █     █     █       █     █  
+█         █    █▄▄▄▄▄▄▄▄    ▀▀▀▄▄▄▄▄▄▀▀▀        █          █  █   █████      █        ███████          
+```
 # by Werner
 Konrad Variant, 40 key column-staggered split keyboard, encoders, OLED displays.
 ![KLOR layouts](/docs/images/klor-layouts.svg)
