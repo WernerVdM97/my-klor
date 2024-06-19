@@ -12,7 +12,7 @@
 █         █    █▄▄▄▄▄▄▄▄    ▀▀▀▄▄▄▄▄▄▀▀▀        █          █  █   █████      █        ███████          
 ```
 # by Werner
-Konrad Variant, 40 key column-staggered split keyboard, encoders, OLED displays.
+KLOR Konrad Variant, 40 key column-staggered split keyboard, encoders, OLED displays.
 ![KLOR layouts](/docs/images/klor-layouts.svg)
 
 ## Keymap
@@ -21,7 +21,6 @@ Featuring left-only League of Legends layer.
 ![Layer-0](layer_0.png)
 See [detailed layers](docs/layers.pdf).
 
-If you choose one of the other layouts you can use the matching template in the default keymap.\
 If you choose Konrad or Saegewerk and plan on using LEDs you need to uncomment the appropiate lines in the `klor.c` file.
 
 ## LCD
@@ -39,7 +38,8 @@ Than you can use this command to compile the RP2040 firmware for the KLOR.
 ## TODO
 - [ ] solder & assemble
 - [ ] program Layers
-- [ ] custom OLED animation ([tutorial](https://www.youtube.com/watch?v=OJSOEStpPIo))
-- [ ] haptic feedback (+ peripheral side)
+- [ ] L/R OLED ft wpm animation ([tutorial](https://www.youtube.com/watch?v=OJSOEStpPIo))
 - [ ] audio
 - [ ] fixed LED backlight
+- [ ] haptic feedback (+ peripheral side)
+- [ ] RGB Matrix (I2C limit...)
